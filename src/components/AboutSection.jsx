@@ -1,4 +1,4 @@
-import prod from '../assets/offer4.jpg'; 
+import prod from '../assets/pharmacy1.jpg'; 
 
 export default function AboutSection(){
     return (
@@ -7,8 +7,8 @@ export default function AboutSection(){
             
                 <div className="w-1/2 h-128 flex justify-center items-center">
 
-                    <div className="w-168 h-96 flex flex-col justify-center p-20 border-x border-x-orange-400">
-                        <p className='font-bold text-2xl mb-5 text-center'>Your Trusted Health Partner</p>
+                    <div className="w-168 h-96 flex flex-col justify-center p-20 border-x border-x-red-600">
+                        <p className='font-bold text-2xl mb-5 text-center '>Your Trusted Health Partner</p>
 
                         <p className='text-justify px-5 text-gray-800'>
                         At CMAX-healthcare, we go beyond prescriptions. Our dedicated team is here to provide 
